@@ -56,5 +56,6 @@ RUN conda install --quiet --yes r-e1071
 RUN R -e "install.packages('StatMatch', repos = 'http://cran.us.r-project.org')"
 RUN R -e "install.packages('reshape', repos = 'http://cran.us.r-project.org')"
 RUN R -e "install.packages('ade4', repos = 'http://cran.us.r-project.org')"
+RUN R -e "install.packages('stringi', repos = 'http://cran.us.r-project.org')"
 RUN R -e "install.packages('Hmisc', repos = 'http://cran.us.r-project.org')"
 
