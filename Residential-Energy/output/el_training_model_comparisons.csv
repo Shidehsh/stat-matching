@@ -1,0 +1,10 @@
+,Mean Absolute Error,Median Absolute Error,$r^2$,Mean Average Percent Difference
+Ridge Regressor,7.55e+03 +/- 283.39,5.16e+03 +/- 204.81,0.78 +/- 0.02,inf +/- nan
+ElasticNet,7.34e+03 +/- 277.15,4.85e+03 +/- 158.48,0.79 +/- 0.02,inf +/- nan
+Lasso,7.55e+03 +/- 283.48,5.15e+03 +/- 210.68,0.78 +/- 0.02,inf +/- nan
+AdaBoost Regressor,1.28e+04 +/- 1.16e+03,1.18e+04 +/- 1.52e+03,0.57 +/- 0.05,30.49 +/- 2.14
+Bagging Regressor,7.95e+03 +/- 324.90,5.14e+03 +/- 120.00,0.75 +/- 0.02,21.97 +/- 0.65
+"Gradient Boosting Regressor, 4_20",7.73e+03 +/- 334.14,5.28e+03 +/- 175.63,0.77 +/- 0.02,21.11 +/- 0.53
+Random Forest Regressor,7.47e+03 +/- 302.44,4.94e+03 +/- 165.50,0.77 +/- 0.01,20.78 +/- 0.47
+Extra Trees Regressor,1.06e+04 +/- 1.07e+03,8.55e+03 +/- 896.40,0.64 +/- 0.07,28.66 +/- 2.41
+MLPRegressor,1.72e+04 +/- 255.84,1.24e+04 +/- 419.02,0.01 +/- 0.07,67.17 +/- 4.87
